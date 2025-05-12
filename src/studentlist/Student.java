@@ -13,6 +13,7 @@ public class Student
     //model student details
   private String name ; //principle encapsulation
     private int sid;
+    private int semester;
     //getter/setter
 
     /**
