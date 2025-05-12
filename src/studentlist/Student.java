@@ -14,7 +14,6 @@ public class Student
   private String name ; //principle encapsulation
     private int sid;
     private int semester;
-    private String cname;
     //getter/setter
 
     /**
