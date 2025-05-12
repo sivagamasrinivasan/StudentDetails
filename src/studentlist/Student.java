@@ -15,6 +15,7 @@ public class Student
     private int sid;
     private int semester;
     //getter/setter
+    private String cname;
 
     /**
      * @return the name
